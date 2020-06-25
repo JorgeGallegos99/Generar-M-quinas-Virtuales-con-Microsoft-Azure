@@ -23,7 +23,7 @@ Microsoft Azure nos brinda el beneficio de generar máquinar virtuales y almacen
 
 * Aprender y explicar cómo crear una máquina virtual en Microsoft Azure 
 
-Microsoft Azure
+**Microsoft Azure**
 
 Microsoft Azure o como era conocido antes Windows Azure, es una plataforma de computación en una nube pública de pago por uso que sirve para administrar, organizar, gestionar ciertas necesidades que están orientadas a actividades comerciales (Microsoft Azure, s.f.).
 
@@ -42,6 +42,7 @@ Al igual que ocurre con otros proveedores de nube pública, Azure utiliza princi
 **Licencias**
 
 **Licencia para estudiantes**
+
 Azure para estudiantes le ayuda a comenzar con $100 en créditos de Azure que puede usar durante los 12 primeros meses junto con algunos servicios gratuitos (sujetos a cambios), sin necesidad de facilitar una tarjeta de crédito al suscribirse.
 
 Azure para estudiantes está disponible para aquellos estudiantes que cumplan los siguientes requisitos. Debe confirmar que tiene 18 años o más y que asiste a una institución educativa acreditada que ofrece estudios de grado de dos o cuatro años, donde es alumno a tiempo completo. Debe acreditar su condición académica con la dirección de correo electrónico de la organización.
