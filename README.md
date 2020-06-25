@@ -1,6 +1,6 @@
 # Generar máquinas virtuales en Microsof Azure
 
-1. **Planteamiento del Problema**
+**Introducción**
 
 Dentro del mundo de la informática los avances tecnologicos han llevado al desarrollo de muchos sistemas operativos y con estos varias actualizaciones para tratar de mejorarlos cada vez para que los usuarios tengan una experiencia satisfactoria al momento de usar dichos sistemas operativos.
 Cada sistema operativo posee un propósito general y debido al gran número de sistemas operativos que existen, las personas que están encargadas de probar el correcto funcionamiento de estas actualizaciones, mejor conocidos como "beta testers", se ven obligados a instalar y desintalar los sitemas operativos para de esta forma poder detercar posibles fallas.
@@ -11,55 +11,17 @@ Por esta razón se crearon las máquinas virtuales que en el mundo de la inform�
 No hay necesidad de tener otro ordenador (físico) para instalar o probar software, podemos ajustar las configuraciones de la máquina virtual a nuestras necesidades, se abre la posibilidad de tener distintos sistemas operativos sin necesidad de crear particiones o tener más discos duros o simplemente nos puede servir para provar software que aún estan en fase de pruebas(versiones beta, alfa, etc.) y tener la certeza que no afectara a nuestro sistema operativo base.
 Microsoft Azure nos brinda el beneficio de generar máquinar virtuales y almacenarlas de forma segura en su nube. Con la ayuda de este programa aprenderemos a generar maquinas virtuales.
 
-2. **Objetivos** 
+**Objetivos** 
 
-2.1. **Objetivo General**
+**Objetivo General**
 
 * Realizar un tutorial en Microsoft Azure para la generación de máquinas virtuales.
 
-2.2. **Objetivos Específicos**
+**Objetivos Específicos**
 
 * Conocer qué es y para qué sirve Microsoft Azure
 
 * Aprender y explicar cómo crear una máquina virtual en Microsoft Azure 
-
-3. **Estado del Arte** 
-
-**Modelo Comparativo de Plataformas Cloud y Evaluación de Microsoft Azure, Google App Engine y Amazon EC2**
-
-La computación en la nube es un modelo de prestación y consumo de servicios que ofrece muchas ventajas a las empresas (alta disponibilidad, elasticidad, máximo aprovechamiento de recursos, etc.) que se traducen en requisitos de calidad que deben ser cumplidos por el servicio. Sin embargo, la elección de una plataforma de cloud computing puede ser
-complicada desde el punto de vista del usuario, ya que no está claro las ventajas y limitaciones de cada una de ellas y por lo tanto hay cierta incertidumbre a la hora de realizar esta selección. Dentro del cloud computing existen distintos roles, en este proyecto hablaremos de los 3 más reconocidos. El consumidor, persona que contrata los servicios de un proveedor y utiliza sus servicios. El proveedor, entidad que proporciona los servicios cloud computing. Y, por último, el bróker o intermediario, entidad que media entre el consumidor y el proveedor, velando por el cumplimiento del contrato entre ambos. Existen varios proveedores de servicios en la nube, siendo Microsoft, Google y
-Amazon los más importantes. Otros proveedores relevantes son Rackspace, IBM, Oracle, Salesforce, etc. Por lo tanto, existe una alta competencia de proveedores de servicios en la nube, basada en los precios a los que ofertan los recursos. Sin embargo, los proveedores deben considerar otro factor diferenciador más allá del precio de oferta: la calidad de sus servicios.
-
-**Autor**
-
-José Miguel Álvarez Vañó
-
-**Lugar y Fecha de Publicación**
-
-Valencia, España
-
-17 de Junio de 2019
-
-Este artículo tiene como propósito guiar o explicar los beneficios que se obtienen al utizar software que permiten almacenar datos en su nube. Además, hace comparación entre varias plataformas mostrando todas las ventajas que poseen.
-
-**Las ventajas de la utilización de Microsoft Azure en proyectos Open Source**
-
-El semillero de investigación CLOIT de la Universidad EAN, durante el primer periodo académico de 2016, presenta el producto de investigación acerca de la utilización de tecnologías de código abierto soportadas en Microsoft Azure, que reflejan el resultado de divulgación y aplicación del conocimiento para la implementación de aplicativos de software, incorporando sistemas operativos Linux sin importar la distribución, paquetes y servicios, que serán configurados para su funcionamiento en contextos empresariales y académicos. Dentro del proceso de investigación se realizó una prueba de concepto implementado en un sitio web con Microsoft Azure, que usa el sistema operativo Linux y tecnologías de código abierto, utilizando una máquina virtual en la modalidad de infraestructura como servicio o IaaS.
-
-**Autores**
-
-* Edy Rodríguez Meza 
-
-* Daniel Rodrigo Vargas Imbachi
-
-**Lugar y Fecha de Publicación**
-
-Bogotá, Colombia
-
-14 de Noviembre del 2019
-
-4. **Marco Teórico** 
 
 Microsoft Azure
 
@@ -71,11 +33,32 @@ Además, proporciona un cierto número de servicios entre los cuales están incl
 Microsoft Azure fue lanzado en octubre del 2008 originalmente se llamaba Windows Azure, pero fue cambiada de marca a Microsoft Azure en abril de 2014. Azure compite con otras plataformas de nube pública, incluyendo Amazon Web Services (AWS) y Google Cloud Platform. (Parada, 2019)
 La mayoría de empresas usan Microsoft Azure para poder respaldar y almacenar sus datos además de ejecutar sus aplicaciones para reducir los costos en vez de invertir en servidores y almacenamiento local (Parada, 2019). 
 
-5. **Tutorial** 
+Al igual que con otras plataformas de nube pública, algunas organizaciones utilizan Azure para el respaldo de datos y la recuperación de desastres. Además, algunas organizaciones utilizan Azure como una alternativa a su propio centro de datos. En lugar de invertir en servidores y almacenamiento locales, estas organizaciones optan por ejecutar algunas o todas sus aplicaciones de negocio en Azure.
+
+Para garantizar la disponibilidad, Microsoft tiene centros de datos de Azure ubicados en todo el mundo. A partir de enero de 2016, Microsoft dijo que los servicios de Azure están disponibles en 22 regiones de todo el mundo, incluyendo en los Estados Unidos, Europa, Asia, Australia y Brasil.
+
+Al igual que ocurre con otros proveedores de nube pública, Azure utiliza principalmente un modelo de precios de pago ‘como va’, que se carga basado en el uso. Sin embargo, una sola aplicación puede utilizar múltiples servicios de Azure, por lo que los usuarios deben revisar y administrar el uso para minimizar los costos.
+
+**Licencias**
+
+**Licencia para estudiantes**
+Azure para estudiantes le ayuda a comenzar con $100 en créditos de Azure que puede usar durante los 12 primeros meses junto con algunos servicios gratuitos (sujetos a cambios), sin necesidad de facilitar una tarjeta de crédito al suscribirse.
+
+Azure para estudiantes está disponible para aquellos estudiantes que cumplan los siguientes requisitos. Debe confirmar que tiene 18 años o más y que asiste a una institución educativa acreditada que ofrece estudios de grado de dos o cuatro años, donde es alumno a tiempo completo. Debe acreditar su condición académica con la dirección de correo electrónico de la organización.
+
+**Licencia Gratuita**
+
+Con esta licencia tendremos acceso a todos los recursos mas populares de Microsoft Azure durante 12 meses, ademas, nos dan un credito de 170 para poder explorar a fondo la platafroma durante 30 dias y por ultimo nos ofrece mas de 25 servicios que siempre seran gratuitos.
+
+**Licencia Pagada**
+
+Cuando decidamos actualizar la licencia que tenemos por una Pagada podremos acceder a absolutamente todos los servicios que brinda microsoft Azure con precios de pago por uso. el costo dependera de los servicios que solicitemos y usemos a lo largo del mes
+
+**Tutorial** 
 
 Para la creación de maquinas virtuales se debe seguir los siguientes pasos:
 
-5.1.	Ingresar a la página principal de Microsoft Azure (https://azure.microsoft.com/es-es/)
+Ingresar a la página principal de Microsoft Azure (https://azure.microsoft.com/es-es/)
 
 ![f2](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f2.png)
 
