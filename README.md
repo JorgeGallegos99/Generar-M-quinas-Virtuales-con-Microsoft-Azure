@@ -1,6 +1,6 @@
 # Generar máquinas virtuales en Microsof Azure
 
-1. Planteamiento del Problema
+1. **Planteamiento del Problema**
 
 Dentro del mundo de la informática los avances tecnologicos han llevado al desarrollo de muchos sistemas operativos varias actualizaciones para tratar de mejorarlos cada vez y que los usuarios tengas una experincia satisfactoria al momento de usar dichos sistemas operativos.
 Cada sistema operativo posee un propósito general y debido al gran número de sistemas operativos que existen, las personas que estan encargadas de probar el correcto funcionamiento de estos actualizaciones, mejor conocidos como "beta testers", se ven obligados a instalar y desintalar los sitemas operativos para de esta forma poder detercar posibles fallas.
@@ -9,19 +9,19 @@ Esto seria un verdadero dolor de para los beta testes si no existieran las maqui
 No hay necesidad de tener otro ordenador (físico) para instalar o probar software, podemos ajustar las configuraciones de la máquina virtual a nuestras necesidades, se abre la posibilidad de tener distintos sistemas operativos sin necesidad de crear particiones o tener más discos duros o simplemente nos puede servir para provar software que aún estan en fase de pruebas(versiones beta, alfa, etc.) y tener la certeza que no afectara a nuestro sistema operativo base.
 Microsoft Azure nos brinda el beneficio de generar máquinar virtuales y almacenarlas de forma segura en su nube. Con la ayuda de este programa aprenderemos a generar maquinas virtuales.
 
-2. Objetivos 
+2. **Objetivos** 
 
-2.1. Objetivo General
+2.1. **Objetivo General**
 
 * Realizar un tutorial en Microsoft Azure para la generación de máquinas virtuales.
 
-2.2. Objetivos Específicos
+2.2. **Objetivos Específicos**
 
 * Conocer qué es y para qué sirve Microsoft Azure
 
 * Aprender y explicar cómo crear una máquina virtual en Microsoft Azure 
 
-3. Estado del Arte 
+3. **Estado del Arte** 
 
 **Modelo Comparativo de Plataformas Cloud y Evaluación de Microsoft Azure, Google App Engine y Amazon EC2**
 
@@ -57,7 +57,7 @@ Bogotá, Colombia
 
 14 de Noviembre del 2019
 
-4. Marco Teórico 
+4. **Marco Teórico** 
 
 Microsoft Azure
 
@@ -69,7 +69,7 @@ Además, proporciona un cierto número de servicios entre los cuales están incl
 Microsoft Azure fue lanzado en octubre del 2008 originalmente se llamaba Windows Azure, pero fue cambiada de marca a Microsoft Azure en abril de 2014. Azure compite con otras plataformas de nube pública, incluyendo Amazon Web Services (AWS) y Google Cloud Platform. (Parada, 2019)
 La mayoría de empresas usan Microsoft Azure para poder respaldar y almacenar sus datos además de ejecutar sus aplicaciones para reducir los costos en vez de invertir en servidores y almacenamiento local (Parada, 2019). 
 
-5. Tutorial 
+5. **Tutorial** 
 
 Para la creación de maquinas virtuales se debe seguir los siguientes pasos:
 
@@ -180,3 +180,30 @@ Seleccionamos el windows server 2016 , el tamaño se elige por defecto pero noso
 Y listo! Habremos creado exitosamente la maquina virtual.
 
 ![f21](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f21.jpg)
+
+6. **Conclusiones**
+
+* Microsoft Azure es una plataforma que ofrece varios servicios gratuitos por determidado tiempo y podemos aceder completamente a ellos si compramos una licencia. Sin embargo, con el peridodo de prueba que nos dan se puede realizar varias pruebas con todos los servicios que ofrece, obiamente tedrán su limitaciones.
+esta plataforma está orientada a las grandes empresas.
+
+* La creacion de maquinas virtuales en relativamente sencilla, solo debemos tener en cuenta cierutos parametros que debemos elegir para crear adecuadamente nuestra maquina virtual y podamos ajustarla a nuestras necesidades.
+
+7. **Recomendaciones**
+
+* Debemos tener claro el uso que le vayamos a dar a esta util y podera herramienta para poder sacarle el maximo provecho.
+
+* Para crear una máquina virtual debemos elegir el sistema operativo que mas se ajuste a nuestras necesidades
+
+8. **Bibliografía**
+
+* Álvarez Vañó, J. M. (17 de Junio de 2019). Universisdad Politécnica de Valencia. Obtenido de Modelo Comparativo de Plataformas Cloud y Evaluación de Microsoft Azure, Google App Engine y Amazon EC2: https://riunet.upv.es/bitstream/handle/10251/101221/%c3%81LVAREZ%20-%20Modelo%20Comparativo%20de%20Plataformas%20Cloud%20y%20Evaluaci%c3%b3n%20de%20Microsoft%20Azure%2c%20Google%20App%20Eng....pdf?sequence=1&isAllowed=y
+
+* Parada, M. (28 de Octubre de 2019). OpenWebinars. Obtenido de https://openwebinars.net/blog/que-es-azure/
+
+* Ramírez, I. (25 de Julio de 2016). Xataka. Obtenido de https://www.xataka.com/especiales/maquinas-virtuales-que-son-como-funcionan-y-como-utilizarlas
+
+* Rodríguez Meza, E., & Vargas Imbachi, D. R. (14 de Noviembre de 2019). Universidad EAN. Obtenido de Las ventajas de la utilización de Microsoft Azure en proyectos Open Source: https://repository.ean.edu.co/bitstream/handle/10882/9018/EstrategiasCompetitividad2016.pdf?sequence=1&isAllowed=y#page=6
+
+* Rouse, M. (Marzo de 2017). Search Data Center en español. Obtenido de TechTarget: https://searchdatacenter.techtarget.com/es/definicion/Microsoft-Azure-Windows-Azure
+
+
