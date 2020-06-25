@@ -85,7 +85,7 @@ Para la creación de maquinas virtuales se debe seguir los siguientes pasos:
 
 ![f4](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f4.png)
 
-Si nos desplazamos un poco mas hacia debajo de la pagina podresmo ver los beneficios que Microsoft Azure nos ofrece con la cuenta gratuita que será la que usaremos para desarrollar este tutorial.
+Si nos desplazamos un poco más hacia debajo de la página podremos ver los beneficios que Microsoft Azure nos ofrece con la cuenta gratuita que será la que usaremos para desarrollar este tutorial.
 
 ![f5](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f5.png)
 
@@ -179,4 +179,4 @@ Seleccionamos el windows server 2016 , el tamaño se elige por defecto pero noso
 
 Y listo! Habremos creado exitosamente la maquina virtual.
 
-![f21](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f21.png)
+![f21](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f21.jpg)
