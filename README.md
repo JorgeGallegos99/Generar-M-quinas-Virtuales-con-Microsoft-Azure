@@ -2,10 +2,12 @@
 
 1. **Planteamiento del Problema**
 
-Dentro del mundo de la informática los avances tecnologicos han llevado al desarrollo de muchos sistemas operativos varias actualizaciones para tratar de mejorarlos cada vez y que los usuarios tengas una experincia satisfactoria al momento de usar dichos sistemas operativos.
-Cada sistema operativo posee un propósito general y debido al gran número de sistemas operativos que existen, las personas que estan encargadas de probar el correcto funcionamiento de estos actualizaciones, mejor conocidos como "beta testers", se ven obligados a instalar y desintalar los sitemas operativos para de esta forma poder detercar posibles fallas.
+Dentro del mundo de la informática los avances tecnologicos han llevado al desarrollo de muchos sistemas operativos y con estos varias actualizaciones para tratar de mejorarlos cada vez para que los usuarios tengan una experiencia satisfactoria al momento de usar dichos sistemas operativos.
+Cada sistema operativo posee un propósito general y debido al gran número de sistemas operativos que existen, las personas que están encargadas de probar el correcto funcionamiento de estas actualizaciones, mejor conocidos como "beta testers", se ven obligados a instalar y desintalar los sitemas operativos para de esta forma poder detercar posibles fallas.
 
-Esto seria un verdadero dolor de para los beta testes si no existieran las maquinas virtuales por esta razon se crearon las máquinas virtuales que en el mundo de la informática es un software que emula a un ordenador y puede ejecutar programas como si fuese un ordenador real. En otras palabras, estaríamos teniendo un ordenador (virtual) dentro de nuestro ordenador y, en consecuencia, poder realizar esta actividad en los ordenadores trae un montón de beneficios como por ejemplo: 
+Esto sería un verdadero dolor de para los beta testes si no existieran las máquinas virtuales.
+
+Por esta razón se crearon las máquinas virtuales que en el mundo de la informática es un software que emula a un ordenador y puede ejecutar programas como si fuese un ordenador real. En otras palabras, estaríamos teniendo un ordenador (virtual) dentro de nuestro ordenador y, en consecuencia, poder realizar esta actividad en los ordenadores trae un montón de beneficios como por ejemplo: 
 No hay necesidad de tener otro ordenador (físico) para instalar o probar software, podemos ajustar las configuraciones de la máquina virtual a nuestras necesidades, se abre la posibilidad de tener distintos sistemas operativos sin necesidad de crear particiones o tener más discos duros o simplemente nos puede servir para provar software que aún estan en fase de pruebas(versiones beta, alfa, etc.) y tener la certeza que no afectara a nuestro sistema operativo base.
 Microsoft Azure nos brinda el beneficio de generar máquinar virtuales y almacenarlas de forma segura en su nube. Con la ayuda de este programa aprenderemos a generar maquinas virtuales.
 
@@ -99,7 +101,7 @@ Si nos desplazamos un poco más hacia debajo de la página podremos ver los bene
 
 A continuacion debemos llenar todos los satos que nos soliciten.
 
-5.6.	En la parte 2 de los datos que debemos llenar nos solicitara un número de teléfono para enviar un código de verificación, debemos asegurarnos que el número de teléfono que ingresemos sea el correcto, caso contrario no recibiremos el codigo de verificacion para la activación de nuestra cuenta de Microsoft Azure.
+5.6.	En la parte 2 de los datos que debemos llenar nos solicitará un número de teléfono para enviar un código de verificación, debemos asegurarnos que el número de teléfono que ingresemos sea el correcto, caso contrario no recibiremos el codigo de verificacion para la activación de nuestra cuenta de Microsoft Azure.
 
 5.7.  En el punto 3 del registro nos pedirá que ingresemos una tarjeta de crédito para verificar nuestra identidad, cabe recalcalcar que no nos cobrarán nungún recargo por ingresar la tarjeta de crédito.
 
