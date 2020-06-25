@@ -58,15 +58,15 @@ Cuando decidamos actualizar la licencia que tenemos por una Pagada podremos acce
 
 Para la creación de maquinas virtuales se debe seguir los siguientes pasos:
 
-Ingresar a la página principal de Microsoft Azure (https://azure.microsoft.com/es-es/)
+1. Ingresar a la página principal de Microsoft Azure (https://azure.microsoft.com/es-es/)
 
 ![f2](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f2.png)
 
-5.2.	Presionamos el botón “cuenta gratuita” que se encuentra ubicado en la parte superior derecha de la pantalla. 
+2.	Presionamos el botón “cuenta gratuita” que se encuentra ubicado en la parte superior derecha de la pantalla. 
 
 ![f3](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f3.png)
 
-5.3.	Se desplegará una nueva página en la cual nos pregunta si queremos usar Microsoft Azure gratuitamente o si queremos adquirir una licencia para obtener más Beneficios.
+3.	Se desplegará una nueva página en la cual nos pregunta si queremos usar Microsoft Azure gratuitamente o si queremos adquirir una licencia para obtener más Beneficios.
 
 ![f4](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f4.png)
 
@@ -74,91 +74,91 @@ Si nos desplazamos un poco más hacia debajo de la página podremos ver los bene
 
 ![f5](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f5.png)
 
-5.4.	Seleccionamos la opcion “Empiece gratis” que nos direccionara hacia otra pagina en la cual debemos ingresar con nuestra cuenta de hotmail, outlook o con nuestra cuenta de Github en caso de tenerla. Para nuestro caso ingresaremos con una cuenta de hotmail.
+4.	Seleccionamos la opcion “Empiece gratis” que nos direccionara hacia otra pagina en la cual debemos ingresar con nuestra cuenta de hotmail, outlook o con nuestra cuenta de Github en caso de tenerla. Para nuestro caso ingresaremos con una cuenta de hotmail.
 
 ![f6](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f6.png)
 
-5.5.	Una vez iniciada sesion con nuestra cuenta de hotmail nos redireccionara a la siguiente pagina: 
+5.	Una vez iniciada sesion con nuestra cuenta de hotmail nos redireccionara a la siguiente pagina: 
 
 ![f7](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f7.png)
 
 A continuacion debemos llenar todos los satos que nos soliciten.
 
-5.6.	En la parte 2 de los datos que debemos llenar nos solicitará un número de teléfono para enviar un código de verificación, debemos asegurarnos que el número de teléfono que ingresemos sea el correcto, caso contrario no recibiremos el codigo de verificacion para la activación de nuestra cuenta de Microsoft Azure.
+6.	En la parte 2 de los datos que debemos llenar nos solicitará un número de teléfono para enviar un código de verificación, debemos asegurarnos que el número de teléfono que ingresemos sea el correcto, caso contrario no recibiremos el codigo de verificacion para la activación de nuestra cuenta de Microsoft Azure.
 
-5.7.  En el punto 3 del registro nos pedirá que ingresemos una tarjeta de crédito para verificar nuestra identidad, cabe recalcalcar que no nos cobrarán nungún recargo por ingresar la tarjeta de crédito.
+7.  En el punto 3 del registro nos pedirá que ingresemos una tarjeta de crédito para verificar nuestra identidad, cabe recalcalcar que no nos cobrarán nungún recargo por ingresar la tarjeta de crédito.
 
-5.8.	Luego de leer los términos y condiciones marcamos el casillero aceptando que los hemos leido y para finalizar le damos clic en el botón “registrarse”. Asi finalizaremos el registro en microsoft Azure 
+8.	Luego de leer los términos y condiciones marcamos el casillero aceptando que los hemos leido y para finalizar le damos clic en el botón “registrarse”. Asi finalizaremos el registro en microsoft Azure 
 
 ![f8](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f8.png)
 
-5.9.	Se despliega la siguiente página
+9.	Se despliega la siguiente página
 
 ![f9](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f9.png)
 
 Damos clic en el botón “ir al portal”.
 
-5.10.	A continuación, nos aparecerá la siguiente pantalla.
+10.	A continuación, nos aparecerá la siguiente pantalla.
 
  ![f10](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f10.png)
 
 Aquí seleccionamos la opción que dice implementación de una máquina virtual.
 
-5.11.	Como paso siguiente elegimos si queremos una maquinar virtual de Linux o de windows. en nuestro caso seleccionaremos una maquina virtual en el entorno de windows.
+11.	Como paso siguiente elegimos si queremos una maquinar virtual de Linux o de windows. en nuestro caso seleccionaremos una maquina virtual en el entorno de windows.
 
 ![f11](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f11.png)
 
-5.12.	Damos clic en el botón “Crear” y se nos desplegará un cuadro de texto el cual nos indica que son las maquinas virtuales y para qué sirven. Nos dirigimos al final de ese cuadro de texto y volvemos a presionar el botón “crear”.
+12.	Damos clic en el botón “Crear” y se nos desplegará un cuadro de texto el cual nos indica que son las maquinas virtuales y para qué sirven. Nos dirigimos al final de ese cuadro de texto y volvemos a presionar el botón “crear”.
 
-5.13.	En la página que se despliega llenamos todos los campos para nuestra máquina virtual sobre todo el nombre de nuestra máquina virtual y el sistema operativo que vayamos a usar.
+13.	En la página que se despliega llenamos todos los campos para nuestra máquina virtual sobre todo el nombre de nuestra máquina virtual y el sistema operativo que vayamos a usar.
 
 ![f12](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f12.png)
 
 Seleccionamos el windows server 2016 , el tamaño se elige por defecto pero nosotros podemos cambiar el tamaño que usaremos dependiendo de la el uso que le vayas a dar a la maquina virtual, en esta ocacion dejaremos con el default.
 
-5.14.	Le ponemos un nombre de ususario y contraseña que debemos recordar
+14.	Le ponemos un nombre de ususario y contraseña que debemos recordar
 
 ![f13](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f13.png)
 
-5.15.	Damos clic en revisar y crear
+15.	Damos clic en revisar y crear
 
-5.16.	La siguiente pantalla nos muestra las especificaciones de nuestra maquina virtual y el costo que tiene de uso por hora.
+16.	La siguiente pantalla nos muestra las especificaciones de nuestra maquina virtual y el costo que tiene de uso por hora.
 
 ![f14](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f14.png)
 
-5.17.	Damos clic en el botón crear. Esto podría tardar unos minutos.
+17.	Damos clic en el botón crear. Esto podría tardar unos minutos.
 
-5.18.	Cuando aparezca el siguiente mensaje sabremos que se creó correctamente nuestra máquina virtual.
+18.	Cuando aparezca el siguiente mensaje sabremos que se creó correctamente nuestra máquina virtual.
 
 ![f15](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f15.png)
 
-5.19.	Damos clic en el botón ir al recurso 
+19.	Damos clic en el botón ir al recurso 
 
-5.20.	Para abrir nuestra máquina virtual damos clic en el botón conectar
+20.	Para abrir nuestra máquina virtual damos clic en el botón conectar
 
 ![f16](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f16.png)
 
-5.21.	Seleccionamos la opción RDP
+21.	Seleccionamos la opción RDP
 
-5.22.	Descargamos el archivo RPD
+22.	Descargamos el archivo RPD
 
 ![f17](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f17.png)
 
-5.23.	Le damos doble clic al archivo que se descargó.
+23.	Le damos doble clic al archivo que se descargó.
 
-5.24.	Aparecerá la siguiente ventana:
+24.	Aparecerá la siguiente ventana:
 
 ![f18](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f18.png)
 
-5.25.	Damos clic en “conectar”.
+25.	Damos clic en “conectar”.
 
-5.26.	Escribirnos el usuario y contraseña de nuestra máquina virtual.
+26.	Escribirnos el usuario y contraseña de nuestra máquina virtual.
 
 ![f19](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f19.png)
 
-5.27.	Damos clic en aceptar
+27.	Damos clic en aceptar
 
-5.28.	En la siguiente ventana damos clic en “si”
+28.	En la siguiente ventana damos clic en “si”
 
 ![f20](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f20.png)
 
@@ -166,20 +166,14 @@ Y listo! Habremos creado exitosamente la maquina virtual.
 
 ![f21](https://github.com/JorgeGallegos99/Trabajo-Extra-/blob/master/Img/f21.jpg)
 
-6. **Conclusiones**
+**Conclusiones**
 
 * Microsoft Azure es una plataforma que ofrece varios servicios gratuitos por determidado tiempo y podemos aceder completamente a ellos si compramos una licencia. Sin embargo, con el peridodo de prueba que nos dan se puede realizar varias pruebas con todos los servicios que ofrece, obiamente tedrán su limitaciones.
 esta plataforma está orientada a las grandes empresas.
 
 * La creacion de maquinas virtuales en relativamente sencilla, solo debemos tener en cuenta cierutos parametros que debemos elegir para crear adecuadamente nuestra maquina virtual y podamos ajustarla a nuestras necesidades.
 
-7. **Recomendaciones**
-
-* Debemos tener claro el uso que le vayamos a dar a esta util y podera herramienta para poder sacarle el maximo provecho.
-
-* Para crear una máquina virtual debemos elegir el sistema operativo que mas se ajuste a nuestras necesidades
-
-8. **Bibliografía**
+**Bibliografía**
 
 * Álvarez Vañó, J. M. (17 de Junio de 2019). Universisdad Politécnica de Valencia. Obtenido de Modelo Comparativo de Plataformas Cloud y Evaluación de Microsoft Azure, Google App Engine y Amazon EC2: https://riunet.upv.es/bitstream/handle/10251/101221/%c3%81LVAREZ%20-%20Modelo%20Comparativo%20de%20Plataformas%20Cloud%20y%20Evaluaci%c3%b3n%20de%20Microsoft%20Azure%2c%20Google%20App%20Eng....pdf?sequence=1&isAllowed=y
 
